@@ -107,8 +107,5 @@
 #     a.append(line2)
 #
 # for i in range()
-a = ['']
-for i in a:
-    m = i+'s'
-print(m)
+
 
