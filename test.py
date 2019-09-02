@@ -107,5 +107,8 @@
 #     a.append(line2)
 #
 # for i in range()
+s = '1 2 3'
+ls = list(s.split(' '))
+print(ls)
 
 
