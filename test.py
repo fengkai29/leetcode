@@ -107,8 +107,13 @@
 #     a.append(line2)
 #
 # for i in range()
-s = '1 2 3'
-ls = list(s.split(' '))
-print(ls)
+# s = '1 2 3'
+# ls = list(s.split(' '))
+# print(ls)
+import numpy as np
+
+a = np.array([[[1,2],[2,3]],[[1,2],[4,5]]])
+a = a.reshape(4,2)
+print(a)
 
 
