@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f3e4dc3-1595-4e4e-87d1-00117cc66a11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode_191_位1的个数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_225_用队列实现栈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_860_柠檬水找零.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/leetcode_300_最长上升子序列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/leetcode_541_反转字符串II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学/leetcode_1103_分糖果II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/leetcode_1122_数组的相对排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/leetcode_287_寻找重复数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_1021_删除最外层的括号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数学/leetcode_942_增减字符串匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/leetcode_589_N叉树的前序遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/leetcode_590_N叉树的后续遍历.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/leetcode_279_完全平方数.py" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/leetcode_279_完全平方数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +25,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/动态规划/leetcode_300_最长上升子序列.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode_1021_删除最外层的括号.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="308">
+              <caret line="14" column="25" lean-forward="true" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数学/leetcode_942_增减字符串匹配.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/树/leetcode_590_N叉树的后续遍历.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/树/leetcode_589_N叉树的前序遍历.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -74,6 +95,10 @@
         <option value="$PROJECT_DIR$/数组/leetcode_287_寻找重复数.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/动态规划/leetcode_300_最长上升子序列.py" />
+        <option value="$PROJECT_DIR$/leetcode_1021_删除最外层的括号.py" />
+        <option value="$PROJECT_DIR$/数学/leetcode_942_增减字符串匹配.py" />
+        <option value="$PROJECT_DIR$/树/leetcode_590_N叉树的后续遍历.py" />
+        <option value="$PROJECT_DIR$/树/leetcode_589_N叉树的前序遍历.py" />
       </list>
     </option>
   </component>
@@ -101,7 +126,7 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,7 +297,7 @@
       <workItem from="1566983892445" duration="6259000" />
       <workItem from="1567143657662" duration="2681000" />
       <workItem from="1567395401201" duration="10564000" />
-      <workItem from="1567493979204" duration="2827000" />
+      <workItem from="1567493979204" duration="7075000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1566802992331</created>
@@ -285,18 +310,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25922000" />
+    <option name="totallyTimeSpent" value="30170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26842752" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26842752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298647" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298647" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39958376" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,7 +371,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/动态规划/leetcode_300_最长上升子序列.py</url>
-          <line>20</line>
+          <line>16</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
@@ -495,6 +520,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/leetcode_300_最长上升子序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -502,10 +534,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/leetcode_300_最长上升子序列.py">
+    <entry file="file://$PROJECT_DIR$/leetcode_1021_删除最外层的括号.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="308">
+          <caret line="14" column="25" lean-forward="true" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数学/leetcode_942_增减字符串匹配.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/leetcode_590_N叉树的后续遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/leetcode_589_N叉树的前序遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
