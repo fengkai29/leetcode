@@ -110,10 +110,13 @@
 # s = '1 2 3'
 # ls = list(s.split(' '))
 # print(ls)
-import numpy as np
-
-a = np.array([[[1,2],[2,3]],[[1,2],[4,5]]])
-a = a.reshape(4,2)
-print(a)
-
+# import numpy as np
+#
+# a = np.array([[[1,2],[2,3]],[[1,2],[4,5]]])
+# a = a.reshape(4,2)
+# print(a)
+def find_string(str,pat):
+    import re
+    return re.findall(pat,str,re.I)
+print(find_string('jfajklfda./jfkajf','f.'))
 
